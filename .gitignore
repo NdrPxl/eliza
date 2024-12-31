@@ -5,6 +5,9 @@ node_modules
 .env.production
 .env.local
 .env_main
+.env_sourz
+.env_tater
+.env_fuzzy
 concatenated-output.ts
 embedding-cache.json
 packages/plugin-buttplug/intiface-engine
@@ -54,4 +57,3 @@ coverage
 .eslintcache
 
 agent/content
-.env
